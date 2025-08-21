@@ -14,7 +14,8 @@ import {
   Eye,
   Repeat,
   Mail,
-  Link
+  Link,
+  FileText
 } from 'lucide-react';
 import { Task, Employee, Department, Division } from '../../types';
 
